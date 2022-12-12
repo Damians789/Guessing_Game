@@ -1,4 +1,5 @@
-# Guessing_Game
+# Gra w zgadywanie
+Gra w zgadywanie posiadająca tablicę wyników oraz możliwość rozgrywki z komputerem. Program został stworzony w celu zbadania najlepszego algorytmu do użycia
 Guessing game with leaderboard and the ability to play vs computer. The program was used to measure the best algorithm for the case
 
  
