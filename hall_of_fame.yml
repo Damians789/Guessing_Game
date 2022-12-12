@@ -1,0 +1,47 @@
+---
+Elo:
+  liczba_prob: 1
+  czas: '2022-05-17 18:17:25.5547508 +0200'
+  do_odgadniecia: 5
+Siema:
+  liczba_prob: 1
+  czas: '2022-05-17 14:45:25.6427267 +0200'
+  do_odgadniecia: 5
+Piernik:
+  liczba_prob: 1
+  czas: '2022-05-17 18:30:55.3438201 +0200'
+  do_odgadniecia: 5
+Pionek:
+  liczba_prob: 3
+  czas: '2022-05-17 18:00:47.9230844 +0200'
+  do_odgadniecia: 32
+Wygrany:
+  liczba_prob: 7
+  czas: '2022-05-24 10:54:43.6743571 +0200'
+  do_odgadniecia: 395
+Maslowy:
+  liczba_prob: 5
+  czas: '2022-05-24 11:03:17.7930822 +0200'
+  do_odgadniecia: 325
+Pelikan:
+  liczba_prob: 2
+  czas: '2022-06-07 16:59:41.3128991 +0200'
+  do_odgadniecia: 7
+Oke:
+  liczba_prob: 1
+  czas: '2022-06-07 17:08:22.7233626 +0200'
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+Ziomek:
+  liczba_prob: 1
+  czas: '2022-06-07 17:16:42.561603 +0200'
+  do_odgadniecia: 6
+  strzaly:
+  - 6
+ZbytDlu:
+  liczba_prob: 1
+  czas: '2022-06-07 17:39:11.9479094 +0200'
+  do_odgadniecia: 5
+  strzaly:
+  - 5

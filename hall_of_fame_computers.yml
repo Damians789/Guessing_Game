@@ -1,0 +1,777 @@
+---
+Komputer8GPKwWSWl8D82uvT:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerNqQbykEU2PeWZCQP:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerEMhG4W4ennYDGJaB:
+  do_odgadniecia: 10
+  strzaly:
+  - 7
+  - 7
+  - 9
+  - 10
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 3
+  wynik:
+    zwyciezca: Elo
+    roznica: 1
+KomputerXCC94N2uKugxXNDJ:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputerl9KqYHWVwH8PHdnI:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly: []
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerUACknVu4vx5Ioieh:
+  do_odgadniecia: 6
+  strzaly:
+  - 6
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 6
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerLqh808ZytaPackih:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerGRbgyJRLi6oaYchS:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerWF5I0prGqQ2fwWVm:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputeroUEsEUfAzYbowjHM:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerlDrZY0xMpACLVjgR:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerHHUr9SKvt6FeBKuz:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerkIQmN8DFSQZM7cnG:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerCu7ZGlM1JZAjiaf5:
+  do_odgadniecia: 10
+  strzaly:
+  - 7
+  - 7
+  - 9
+  - 10
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 4
+    strzaly:
+    - 5
+    - 8
+    - 9
+    - 10
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerSdAT2YCoifvLhJdB:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerlpJvuL3XeeEUPuEL:
+  do_odgadniecia: 7
+  strzaly:
+  - 7
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 4
+    strzaly:
+    - 5
+    - 9
+    - 8
+    - 7
+  wynik:
+    zwyciezca: KomputerlpJvuL3XeeEUPuEL
+    roznica: 3
+KomputeraYJKG4XoYyGifqXW:
+  do_odgadniecia: 5
+  strzaly:
+  - 7
+  - 7
+  - 6
+  - 5
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: Elo
+    roznica: 3
+KomputerWdOMDVhwo0Jwz5hM:
+  do_odgadniecia: 9
+  strzaly:
+  - 7
+  - 7
+  - 9
+  ilosc_prob: 3
+  Elo:
+    liczba_prob: 5
+    strzaly:
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+  wynik:
+    zwyciezca: KomputerWdOMDVhwo0Jwz5hM
+    roznica: 2
+Komputer4SKzbWNkbEJzkq2o:
+  do_odgadniecia: 10
+  strzaly:
+  - 7
+  - 7
+  - 9
+  - 10
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 4
+    strzaly:
+    - 7
+    - 8
+    - 9
+    - 10
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputer7zUI1EGCo907C9eA:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerDJdH5jO9g8348FSk:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerL1XWPN9SZqTysPFQ:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerJ3p0D7j7Odie3kja:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerWwldwqnhwLR0ZtyR:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerbgMElIl0V6hBdEf2:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerZ9OcAKeQYCYeEh67:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerepbJohxyIFKCR4yv:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerdoBqQYGYEorJEPS5:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerC9REhEkmxuj6grk0:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputertOUiSWNddw0IUBpi:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerrX1hgEdyK5xfGcnh:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputer7JD5ghZqHvwgbtIH:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerVt6yGNvclvWxFhX6:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerXxuna6BdwSUsymuX:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerVgRn3ZpiLNwqAdHW:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerriBcOrZEznALw1p0:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerRCrKju0krgFbIifo:
+  do_odgadniecia: 5
+  strzaly:
+  - 7
+  - 7
+  - 6
+  - 5
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: Elo
+    roznica: 3
+KomputerOCfzuCWKTT5w1fti:
+  do_odgadniecia: 8
+  strzaly:
+  - 7
+  - 7
+  - 9
+  - 8
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 4
+    strzaly:
+    - 5
+    - 6
+    - 7
+    - 8
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerTRvxo1ezWfZLg8Ro:
+  do_odgadniecia: 6
+  strzaly:
+  - 7
+  - 7
+  - 6
+  ilosc_prob: 3
+  Elo:
+    liczba_prob: 2
+    strzaly:
+    - 5
+    - 6
+  wynik:
+    zwyciezca: Elo
+    roznica: 1
+KomputerNHfLGOIKyy6EyrsJ:
+  do_odgadniecia: 5
+  strzaly:
+  - 7
+  - 7
+  - 6
+  - 5
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: Elo
+    roznica: 3
+KomputerEWFHpP39obfJ5Ib1:
+  do_odgadniecia: 7
+  strzaly:
+  - 7
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 3
+    strzaly:
+    - 5
+    - 6
+    - 7
+  wynik:
+    zwyciezca: KomputerEWFHpP39obfJ5Ib1
+    roznica: 2
+KomputerqbgxKmU678UnJIZ7:
+  do_odgadniecia: 8
+  strzaly:
+  - 7
+  - 7
+  - 9
+  - 8
+  ilosc_prob: 4
+  Elo:
+    liczba_prob: 4
+    strzaly:
+    - 5
+    - 6
+    - 7
+    - 8
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputer7DISrmdGWA77quRA:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputervbzj6uWjWVYucXaA:
+  do_odgadniecia: 7
+  strzaly:
+  - 7
+  ilosc_prob: 1
+  Pelikan:
+    liczba_prob: 2
+    strzaly:
+    - 6
+    - 7
+  wynik:
+    zwyciezca: Komputervbzj6uWjWVYucXaA
+    roznica: 1
+KomputerwtYPhHthFetoYmW1:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+Komputer7CsWBkh8mL4fOrJi:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerEnIalWnQUvOJzjvX:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerW8HrAFOjmBWhlI92:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerPTE0jpgSDvRFELAI:
+  do_odgadniecia: 13
+  strzaly:
+  - 10
+  - 10
+  - 13
+  ilosc_prob: 3
+  Oke:
+    liczba_prob: 2
+    strzaly:
+    - 15
+    - 13
+  wynik:
+    zwyciezca: Oke
+    roznica: 1
+KomputermZ7b9md2SFoqVSN9:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Oke:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerAMC4xzgtdn2URkaR:
+  do_odgadniecia: 10
+  strzaly:
+  - 10
+  ilosc_prob: 1
+  Ziomek:
+    liczba_prob: 5
+    strzaly:
+    - 9
+    - 13
+    - 12
+    - 11
+    - 10
+  wynik:
+    zwyciezca: KomputerAMC4xzgtdn2URkaR
+    roznica: 4
+KomputerOuiuQ6ekSYQ5kcBu:
+  do_odgadniecia: 12
+  strzaly:
+  - 10
+  - 10
+  - 13
+  - 12
+  ilosc_prob: 4
+  Ziomek:
+    liczba_prob: 4
+    strzaly:
+    - 9
+    - 10
+    - 11
+    - 12
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputertORN4dQo2PyyrmOj:
+  do_odgadniecia: 6
+  strzaly:
+  - 6
+  ilosc_prob: 1
+  Ziomek:
+    liczba_prob: 1
+    strzaly:
+    - 6
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerivqiuCgvl69yXz82:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  Elo:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputerO5juGOLF1BKvYRIY:
+  do_odgadniecia: 7
+  strzaly:
+  - 10
+  - 10
+  - 7
+  ilosc_prob: 3
+  BardzoD:
+    liczba_prob: 1
+    strzaly:
+    - 7
+  wynik:
+    zwyciezca: BardzoD
+    roznica: 2
+KomputerazFvyvpnpHA5RMgc:
+  do_odgadniecia: 7
+  strzaly:
+  - 10
+  - 10
+  - 7
+  ilosc_prob: 3
+  ZbytDlu:
+    liczba_prob: 1
+    strzaly:
+    - 7
+  wynik:
+    zwyciezca: ZbytDlu
+    roznica: 2
+Komputer2OwMYdxEVRydjszP:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  ZbytDlu:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
+KomputercYogd3mGTofkv4fN:
+  do_odgadniecia: 14
+  strzaly:
+  - 10
+  - 10
+  - 13
+  - 14
+  ilosc_prob: 4
+  ZbytDlu:
+    liczba_prob: 7
+    strzaly:
+    - 9
+    - 10
+    - 8
+    - 11
+    - 12
+    - 13
+    - 14
+  wynik:
+    zwyciezca: KomputercYogd3mGTofkv4fN
+    roznica: 3
+KomputersMY20cdrzjKKqMZe:
+  do_odgadniecia: 5
+  strzaly:
+  - 5
+  ilosc_prob: 1
+  ZbytDlu:
+    liczba_prob: 1
+    strzaly:
+    - 5
+  wynik:
+    zwyciezca: remis
+    roznica: 0
